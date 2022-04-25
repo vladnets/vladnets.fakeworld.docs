@@ -9,7 +9,7 @@ const config = {
   title: 'Fakeworld Game',
   tagline: 'by Vladnets',
   url: 'https://github.com/vladnets',
-  baseUrl: '/',
+  baseUrl: '/vladnets.fakeworld.docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
