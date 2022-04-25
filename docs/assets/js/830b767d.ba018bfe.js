@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvladnets_fakeworld=self.webpackChunkvladnets_fakeworld||[]).push([[677],{3769:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);
